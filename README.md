@@ -8,3 +8,6 @@ We have modified the original pipelines of the model in simple2D and retrained i
 
 ### To run the model in ./simple2D:
 ```python runsimple2d.py```
+
+### The result of handx model:
+![handx result](https://github.com/SemiXQ/733-Project---Hand-Pose-Estimation-on-Atlas/blob/master/handx%20result.gif)
