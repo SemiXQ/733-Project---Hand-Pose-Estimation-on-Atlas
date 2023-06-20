@@ -3,6 +3,8 @@ This project is to convert existing models to achieve a performance of FPS>=20 o
 
 We have modified the original pipelines of the model in simple2D and retrained it. The prep_utils.py in ./simple2D/utils is from the original model.
 
+Eventually, the whole workflow with handx model is able to achieve 27 FPS with a stable performance.
+
 ### To run the model in ./handx:
 ```python runhandx.py```
 
